@@ -1,0 +1,21 @@
+.pink {
+	background: pink;
+	border: 1px solid purple;
+	height: 200px;
+	margin-top: 10px;
+}
+
+.orange {
+	background: orange;
+	border: 1px solid yellow;
+	height: 20px;
+	margin-top: 10px;
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	padding: 10px;
+}

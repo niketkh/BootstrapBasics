@@ -1,0 +1,31 @@
+body {
+	background: white;
+}
+
+.pageHeader {
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+}
+
+h4 {
+	font-size: 22px;
+	font-family: 'Pacifico', cursive;
+	letter-spacing: 1px;
+	color: #778899;
+}
+
+.btComponent {
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+
+.btForm {
+	border: 3px solid #F1F1F1; 
+	padding: 10px;
+}
+
+.navbar-brand {
+	font-family: 'Pacifico', cursive;
+}
+
+
